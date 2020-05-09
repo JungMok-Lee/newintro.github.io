@@ -1,0 +1,55 @@
+.title{
+    font-family: 'Nanum Gothic', sans-serif;
+    line-height: 20vw;
+    width: 50wv;
+    height: 20vw;
+    background-color: powderblue;
+    text-align: center;
+}
+
+.title1{
+    font-size: 120px;
+    font-weight:bold;
+}
+
+.text{
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: 30px;
+    font-weight:650;
+    text-align:center;
+    line-height:2;
+}
+
+.carousel-inner{
+    color:black; /*이거왜안돼냐*/
+}
+
+.learnmore{
+    font-family: 'Nanum Gothic', sans-serif;
+    justify-content:center;
+}
+
+.jumbotron1{
+    border-top-width: 20px;
+    border:50px dotted white;
+}
+
+.jumbotron2{
+    border:50px dotted white;
+}
+
+.jumbotron3{
+    border:50px dotted white;
+}
+
+.display1, .display2, .display3{
+    font-weight:bold;
+}
+
+footer{
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size:20px;
+    font-weight:300;
+    text-align: center;
+
+}

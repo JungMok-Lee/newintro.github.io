@@ -1,0 +1,21 @@
+html{
+    font-family: 'Noto Serif KR','맑은 고딕',Arial, Helvetica, sans-serif;
+}
+.name{
+    font-size: 50px;
+    font-weight:500;
+    ;line-height: 20vw;
+    width: 50wv;
+    height: 20vw;
+    background-color: powderblue;
+    text-align: center;
+}
+
+.photo{
+    justify-content: center;
+}
+
+.text, .text1, .text2, p{
+    line-height:2;
+    font-size:30px;
+}

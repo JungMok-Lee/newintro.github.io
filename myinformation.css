@@ -1,0 +1,27 @@
+html{
+    font-family: 'Noto Serif KR','맑은 고딕',Arial, Helvetica, sans-serif;
+}
+
+.title{
+    font-size:50px;
+    line-height: 20vw;
+    width: 50wv;
+    height: 20vw;
+    background-color: powderblue;
+    text-align: center;
+}
+
+.likes{
+    font-size:30px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.sleep, .bts, .boki, .health{
+    vertical-align: middle;
+    border: 1px;
+    flex-direction: row;
+    flex-wrap: nowraps;
+    width:30%;
+    box-sizing: border-box;
+}
